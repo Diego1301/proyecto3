@@ -331,7 +331,7 @@ display: inline-block;
   height: 220px;
   margin: 15px;
   background-color: orange;
-  display: flex;
+  display: inline-block;
 
 }
 .navis8{
